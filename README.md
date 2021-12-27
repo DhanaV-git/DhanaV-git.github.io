@@ -1,5 +1,4 @@
-## Portfolio-Website
-Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
+## Website
 
 <a href="dhanav-git.github.io" target="_blank">**Visit Now** 🚀</a>
 
