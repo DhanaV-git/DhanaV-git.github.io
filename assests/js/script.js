@@ -53,7 +53,7 @@ function(){
 
 // <!-- typed js effect starts -->
     var typed = new Typed(".typing-text", {
-        strings: ["DevOps Engineer","Cloud Architect", "Web Designer"],
+        strings: ["Senior DevOps Engineer","Cloud Architect", "Infrastructure Engineer", "Site Reliability Engineer],
         loop: true,
         typeSpeed: 50,
 		backSpeed: 25,
